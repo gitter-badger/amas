@@ -1,5 +1,7 @@
 # Awesome & Marvelous Amas
 
+[![Join the chat at https://gitter.im/AdrianArroyoCalle/amas](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AdrianArroyoCalle/amas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 
 #### Ask these people anything!
